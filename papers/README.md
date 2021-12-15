@@ -27,3 +27,4 @@ B站视频：
 
 我的笔记：
 - [事实汇总](./drafts/can.001.md)
+- [引言Introduction](./drafts/can.002.md)
