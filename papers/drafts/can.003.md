@@ -1,4 +1,4 @@
-# 期刊审稿人手把手教你写一篇SCI论文 (3)_引言Methodology【论文写作】
+# 期刊审稿人手把手教你写一篇SCI论文 (3)_研究方法Methodology【论文写作】
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=3 depthTo=6 orderedList=false} -->
 
