@@ -30,4 +30,5 @@ B站视频：
 - [引言Introduction](./drafts/can.002.md)
 - [研究方法Methodology](./drafts/can.003.md)
 - [结果与讨论Result and Discussion](./drafts/can.004.md)
-- [图和表Figure and Table)](./drafts/can.005.md)
+- [图和表Figure and Table](./drafts/can.005.md)
+- [结论，摘要与题目Conclusion, Abstract, and Title](./drafts/can.006.md)
