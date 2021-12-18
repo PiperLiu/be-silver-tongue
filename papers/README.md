@@ -32,3 +32,4 @@ B站视频：
 - [结果与讨论Result and Discussion](./drafts/can.004.md)
 - [图和表Figure and Table](./drafts/can.005.md)
 - [结论，摘要与题目Conclusion, Abstract, and Title](./drafts/can.006.md)
+- [如何回复审稿人＋总结＋两位牛人的建议](./drafts/can.007.md)
